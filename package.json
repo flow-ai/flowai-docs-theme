@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-flowai-theme",
+  "name": "gitbook-plugin-theme-flowai",
   "description": "Theme for GitBook based on the default theme",
   "main": "./index.js",
   "version": "1.0.7",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flowai/gitbook-plugin-flowai-theme.git"
+    "url": "https://github.com/flowai/gitbook-plugin-theme-flowai.git"
   },
   "author": "Flow.ai <crew@flow.ai>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/flowai/gitbook-plugin-flowai-theme/issues"
+    "url": "https://github.com/flowai/gitbook-plugin-theme-flowai/issues"
   },
   "contributors": [
     {

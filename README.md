@@ -2,4 +2,4 @@
 
 This theme is made for the Flow.ai documentation and is entirely based upon the default theme for Gitbook
 
-![Image](https://raw.github.com/flow.ai/docs-theme/master/preview.png)
+![Image](https://github.com/flow-ai/gitbook-plugin-theme-flowai/raw/master/preview.png)
